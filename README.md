@@ -12,3 +12,12 @@ InvoiceDate: Date and time when the transaction occurred.
 UnitPrice: Price per unit of the product.
 CustomerID: Unique identifier for each customer.
 Country: Country where the customer is located.
+
+You can download this dataset from here: https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset
+
+
+
+
+
+ةyou
+؛خع
